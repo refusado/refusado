@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m Refu
 - 👀 I’m interested in learning and creating new things
-- 🌱 I’m currently learning javascript, math, music and finance
+- 🌱 I’m currently learning web development and game development
 - 💞️ I’m looking to collaborate on projects that arouse my interest and that can allow me to learn new things
 - 📫 How to reach me: Discord: [Refu#6600](https://discord.com/users/745101839099363420) Email: orefusado@gmail.com -->
 
