@@ -38,36 +38,32 @@ Além de ser apaixonado por tecnologia e programação, eu também amo **criativ
 ## Principais repositórios
 
 <div align="center">
-<a href="https://github.com/Refusado/games-store-api">
-  <img style="margin: 2px" width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=games-store-api&theme=nord"/>
+<a style="padding: 4px" href="https://github.com/Refusado/games-store-api">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=games-store-api&theme=nord"/>
 </a>
-<a href="https://github.com/Refusado/sendemail-php">
-  <img style="margin: 2px" width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=sendemail-php&theme=nord"/>
-</a>
-
-<a href="https://github.com/Refusado/Scrollzz">
-  <img style="margin: 2px" width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=Scrollzz&theme=nord"/>
-</a>
-<a href="https://github.com/Refusado/quadro-draw">
-  <img style="margin: 2px" width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=quadro-draw&theme=nord"/>
+<a style="padding: 4px" href="https://github.com/Refusado/sendemail-php">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=sendemail-php&theme=nord"/>
 </a>
 
-<a href="https://github.com/Refusado/tailwind-presentation-card">
-  <img style="margin: 2px" width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=tailwind-presentation-card&theme=nord"/>
+<a style="padding: 4px" href="https://github.com/Refusado/Scrollzz">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=Scrollzz&theme=nord"/>
 </a>
-<a href="https://github.com/Refusado/filmes-em-cartaz">
-  <img style="margin: 2px" width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=filmes-em-cartaz&theme=nord"/>
+<a style="padding: 4px" href="https://github.com/Refusado/quadro-draw">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=quadro-draw&theme=nord"/>
 </a>
 
-<a href="https://github.com/Refusado/Tiro-ao-alvo-CSS">
-  <img style="margin: 2px" width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=Tiro-ao-alvo-CSS&theme=nord"/>
+<a style="padding: 4px" href="https://github.com/Refusado/tailwind-presentation-card">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=tailwind-presentation-card&theme=nord"/>
 </a>
-<a href="https://github.com/Refusado/Pop-up-CSS">
-  <img style="margin: 2px" width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=Pop-up-CSS&theme=nord"/>
+<a style="padding: 4px" href="https://github.com/Refusado/filmes-em-cartaz">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=filmes-em-cartaz&theme=nord"/>
+</a>
+
+<a style="padding: 4px" href="https://github.com/Refusado/Tiro-ao-alvo-CSS">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=Tiro-ao-alvo-CSS&theme=nord"/>
+</a>
+<a style="padding: 4px" href="https://github.com/Refusado/Pop-up-CSS">
+  <img width="370px" style="margin-bottom: 3px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=Pop-up-CSS&theme=nord"/>
 </a>
 </div>
 <u><p align="center"><sub><a href="https://github.com/Refusado?tab=repositories"><b>Veja todos os repositórios clicando aqui</b></a></sub></p></u>
-
-<!-- <a href="https://github.com/Refusado/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=" />
-</a> -->
