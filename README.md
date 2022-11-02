@@ -1,10 +1,10 @@
 # Refu
 
-Olá, meu nome é Renan, mas pode me chamar de Refu. Sou **desenvolvedor fullstack** e dei início aos estudos de programação em 2020, mas dei mais intensidade aos estudos em 2021, quando desenvolvi o meu primeiro jogo, o [Scrollzz](https://github.com/Refusado/Scrollzz) - um quebra-cabeças em HTML e CSS.
+Olá, meu nome é Renan, mas pode me chamar de Refu. Sou **desenvolvedor fullstack** e estudo programação desde 2020, mas comecei a dar mais intensidade aos estudos em 2021, quando desenvolvi o meu primeiro jogo, o [Scrollzz](https://github.com/Refusado/Scrollzz) - um quebra-cabeças em HTML e CSS.
 
 Além de ser apaixonado por tecnologia e programação, eu também amo **criatividade e inovação**, estou sempre me envolvendo em projetos e iniciativas quem envolvam estes temas. 
 
-### Algumas tecnologias
+## Algumas tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,7 +25,7 @@ Além de ser apaixonado por tecnologia e programação, eu também amo **criativ
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Refusado&layout=compact&theme=nord&card_width=320&hide_title=true" />
 </p>
 
-### Contato
+## Contato
 
 <p align=lr">
   <a target="_blank target="_blank" href="https://discord.com/users/412685400847679508"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"/></a>
@@ -35,9 +35,16 @@ Além de ser apaixonado por tecnologia e programação, eu também amo **criativ
 
 <div align="center"><hr width="60%"></div>
 
-### Principais repositórios
+## Principais repositórios
 
-<div align="center">
+<div
+  style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4px;
+  "
+ >
 <a href="https://github.com/Refusado/games-store-api">
   <img width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=games-store-api&theme=nord"/>
 </a>
@@ -65,8 +72,8 @@ Além de ser apaixonado por tecnologia e programação, eu também amo **criativ
 <a href="https://github.com/Refusado/Pop-up-CSS">
   <img width="370px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=Pop-up-CSS&theme=nord"/>
 </a>
-<p align="right"><sub><a href="https://github.com/Refusado?tab=repositories"><b>Veja todos os repositórios clicando aqui</b></a></sub></p>
 </div>
+<u><p align="center"><sub><a href="https://github.com/Refusado?tab=repositories"><b>Veja todos os repositórios clicando aqui</b></a></sub></p></u>
 
 <!-- <a href="https://github.com/Refusado/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Refusado&repo=" />
