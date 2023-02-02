@@ -7,9 +7,7 @@
   <img align="right" src="https://api.visitorbadge.io/api/visitors?path=refusado&labelColor=%232e3440&countColor=%23c7ced9&style=flat-square&labelStyle=lower" />
 </p>
 
-<img style="width: 320px" align="right" src="https://user-images.githubusercontent.com/89546855/215991111-4a12e6fe-8694-4404-8da5-b5e41e8081a8.png" />
-
-                                                                                                                                       
+<img style="width: 320px" align="right" src="https://user-images.githubusercontent.com/89546855/216231400-8ea5175d-1b55-470f-a07a-bb2d74a9b5be.png" />
 
 <p>Meu nome é Renan, mas pode me chamar de Refu. Sou <b>desenvolvedor fullstack</b> e criei minhas primeiras páginas web em 2020. Entretanto, só comecei a me aprofundar realmente no desenvolvimento web em 2021 quando desenvolvi o meu primeiro jogo, o <a href="https://github.com/refusado/Scrollzz">Scrollzz</a> - um quebra-cabeças em HTML e CSS puro!</p>
 
