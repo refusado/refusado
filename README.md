@@ -3,6 +3,7 @@
 <p>
   <a target="_blank" href="mailto:renanfreitas.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a target="_blank" href="https://discord.com/users/412685400847679508"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a target="_blank" href="https://www.youtube.com/@refusado"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <img align="right" src="https://api.visitorbadge.io/api/visitors?path=refusado&labelColor=%232e3440&countColor=%23c7ced9&style=flat-square&labelStyle=lower" />
 </p>
 
