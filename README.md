@@ -9,7 +9,7 @@
 
 <img width="500px" align="right" src="https://github-readme-stats.vercel.app/api?username=refusado&count_private=true&show_icons=true&theme=nord&hide_title=true" />
 
-<p align="left">Meu nome é Renan, mas pode me chamar de Refu. Eu tenho 19 anos, sou <b>desenvolvedor web fullstack</b> e comecei a desenvolver minhas primeiras páginas na internet em 2020. Entretanto, só comecei a me aprofundar realmente no assunto no ano seguinte quando desenvolvi o meu primeiro jogo, o <a href="https://github.com/refusado/scrollzz"><b>Scrollzz</b></a> - um quebra-cabeças em HTML e CSS puro com a gameplay baseada no scroll do mouse!</p>
+<p align="left">Meu nome é Renan, mas pode me chamar de Refu. Eu tenho 20 anos, sou <b>desenvolvedor web fullstack</b> e comecei a desenvolver minhas primeiras páginas na internet em 2020. Entretanto, só comecei a me aprofundar realmente no assunto no ano seguinte quando desenvolvi o <a href="https://github.com/refusado/scrollzz"><b>Scrollzz</b></a> - um quebra-cabeças em HTML e CSS puro com a gameplay baseada no scroll do mouse!</p>
 
 <div width="400px" align="right">
 
